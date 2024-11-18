@@ -407,14 +407,14 @@ a {
 
 /* Dark Theme */
 body.dark {
-    background-color: #333;
-    color: #f5f5f5;
+    background-color: #0a1f44;
+    color: #f0f0f0;
 }
 
 body.dark .navbar,
 body.dark .footer {
-    background-color: #222;
-    color: #f5f5f5;
+    background-color: #13264d;
+    color: #ffffff;
     border-bottom: 1px solid #444;
 }
 
@@ -437,8 +437,8 @@ body.dark a {
 }
 
 body.dark .btn-primary {
-    background-color: #0056b3;
-    border-color: #004085;
+    background-color: #1f3b73;
+    border-color: #ffffff;
 }
 
 /* Basic Reset */
