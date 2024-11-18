@@ -13,6 +13,7 @@ document.addEventListener('DOMContentLoaded', function () {
             responseMessage: "Thank you for your message!",
             footerText: 'Created by Shyngyskhan | Contact:',
             datetimeLabel: 'Date and Time:',
+            exploreButton : 'Explore now',
         },
         ru: {
             navbarBrand: 'Туристические направления',
@@ -24,7 +25,8 @@ document.addEventListener('DOMContentLoaded', function () {
             submitButton: "Отправить",
             responseMessage: "Спасибо за ваше сообщение!",
             footerText: 'Создано Шынгысханом | Контакт:',
-            datetimeLabel: 'Дата и Время:'
+            datetimeLabel: 'Дата и Время:',
+            exploreButton : 'Исследуйте сейчас'
         },
         kk: {
             navbarBrand: 'Саяхат бағыттары',
@@ -36,7 +38,8 @@ document.addEventListener('DOMContentLoaded', function () {
             submitButton: "Жіберу",
             responseMessage: "Хабарыңыз үшін рахмет!",
             footerText: 'Шыңғысхан жасаған | Байланыс:',
-            datetimeLabel: 'Күні мен Уақыты:'
+            datetimeLabel: 'Күні мен Уақыты:',
+            exploreButton : 'Зерттеңіз'
         }
     };
 
