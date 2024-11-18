@@ -207,7 +207,7 @@ document.addEventListener("DOMContentLoaded", function () {
 function changeLanguage(language) {
     const translations = {
         en: {
-            navbarBrand: 'Ultimate Tourist Guide',
+            navbarBrand: 'Travel Destinations',
             title: "Transportation",
             transportationOptions: "Transportation Options",
             flights: "Flights",
@@ -220,7 +220,7 @@ function changeLanguage(language) {
             footerText: "Created by Shyngyskhan | Contact: info@touristguide.com",
         },
         ru: {
-            navbarBrand: 'Лучший туристический гид',
+            navbarBrand: 'Туристические направления',
             title: "Транспорт",
             transportationOptions: "Варианты транспорта",
             flights: "Авиарейсы",
@@ -233,7 +233,7 @@ function changeLanguage(language) {
             footerText: "Создано Шынгысханом | Контакт: info@touristguide.com",
         },
         kk: {
-            navbarBrand: 'Үздік туристік гид',
+            navbarBrand: 'Саяхат бағыттары',
             title: "Көлік",
             transportationOptions: "Көлік мүмкіндіктері",
             flights: "Әуе рейстері",

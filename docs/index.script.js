@@ -16,7 +16,7 @@
         // Language translations
         const translations = {
             en: {
-                navbarBrand: 'Ultimate Tourist Guide',
+                navbarBrand: 'Travel Destinations',
                 greeting: "Good morning!",
                 mainTitle: "Discover the Best Destinations",
                 mainDescription: "Explore top tourist attractions, hotels, and travel tips to make your journey unforgettable.",
@@ -28,7 +28,7 @@
                 footerText: "Created by Shyngyskhan | Contact: info@touristguide.com",
             },
             ru: {
-                navbarBrand: 'Лучший туристический гид',
+                navbarBrand: 'Туристические направления',
                 greeting: "Доброе утро!",
                 mainTitle: "Откройте для себя лучшие направления",
                 mainDescription: "Изучите основные туристические достопримечательности, отели и советы по путешествиям, чтобы сделать ваше путешествие незабываемым.",
@@ -40,7 +40,7 @@
                 footerText: "Создано Шынгысханом | Контакт: info@touristguide.com",
             },
             kk: {
-                navbarBrand: 'Үздік туристік гид',
+                navbarBrand: 'Саяхат бағыттары',
                 greeting: "Қайырлы таң!",
                 mainTitle: "Ең жақсы бағыттарды ашыңыз",
                 mainDescription: "Сіздің саяхатыңызды ұмытылмас ету үшін туристік көрнекті жерлерді, қонақүйлерді және саяхат туралы кеңестерді зерттеңіз.",

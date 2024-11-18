@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function () {
 function changeLanguage(language) {
     const translations = {
         en: {
-            navbarBrand: 'Ultimate Tourist Guide',
+            navbarBrand: 'Travel Destinations',
             title: "Hotel Selection",
             searchHotels: "Search for Hotels",
             destination: "Destination",
@@ -32,7 +32,7 @@ function changeLanguage(language) {
             datetimeLabel: 'Date and Time:'
         },
         ru: {
-            navbarBrand: 'Лучший туристический гид',
+            navbarBrand: 'Туристические направления',
             title: "Выбор отеля",
             searchHotels: "Поиск отелей",
             destination: "Направление",
@@ -48,7 +48,7 @@ function changeLanguage(language) {
             datetimeLabel: 'Дата и Время:'
         },
         kk: {
-            navbarBrand: 'Үздік туристік гид',
+            navbarBrand: 'Саяхат бағыттары',
             title: "Қонақ үй таңдау",
             searchHotels: "Қонақ үйлерді іздеу",
             destination: "Бағыт",

@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
     // Language translations
     const translations = {
         en: {
-            navbarBrand: 'Ultimate Tourist Guide',
+            navbarBrand: 'Travel Destinations',
             title: "Contact Us",
             nameLabel: "Your Name:",
             emailLabel: "Your Email:",
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function () {
             datetimeLabel: 'Date and Time:',
         },
         ru: {
-            navbarBrand: 'Лучший туристический гид',
+            navbarBrand: 'Туристические направления',
             title: "Свяжитесь с нами",
             nameLabel: "Ваше имя:",
             emailLabel: "Ваш адрес электронной почты:",
@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', function () {
             datetimeLabel: 'Дата и Время:'
         },
         kk: {
-            navbarBrand: 'Үздік туристік гид',
+            navbarBrand: 'Саяхат бағыттары',
             title: "Бізге хабарласыңыз",
             nameLabel: "Сіздің атыңыз:",
             emailLabel: "Сіздің электрондық поштаңыз:",
