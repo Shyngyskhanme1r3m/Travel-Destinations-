@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function () {
             destinationLabel: "Favorite Destination:",
             submitButton: "Submit",
             responseMessage: "Thank you for your message!",
-            footerText: 'Created by Zhanel and Zhaniya | Contact:',
+            footerText: 'Created by Shyngyskhan | Contact:',
             datetimeLabel: 'Date and Time:',
         },
         ru: {
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function () {
             destinationLabel: "Любимое место:",
             submitButton: "Отправить",
             responseMessage: "Спасибо за ваше сообщение!",
-            footerText: 'Создано Жанель и Жанией | Контакт:',
+            footerText: 'Создано Шынгысханом | Контакт:',
             datetimeLabel: 'Дата и Время:'
         },
         kk: {
@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', function () {
             destinationLabel: "Таңдаулы орын:",
             submitButton: "Жіберу",
             responseMessage: "Хабарыңыз үшін рахмет!",
-            footerText: 'Жанель және Жания жасаған | Байланыс:',
+            footerText: 'Шыңғысхан жасаған | Байланыс:',
             datetimeLabel: 'Күні мен Уақыты:'
         }
     };

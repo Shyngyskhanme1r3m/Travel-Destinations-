@@ -25,7 +25,7 @@
                 destinationsTitle: "Top Destinations to Visit.",
                 destinationsDescription: "Explore some of the most beautiful and popular destinations around the world, from breathtaking mountains to pristine beaches, bustling cities to serene countryside.",
                 tipsTitle: "Travel Tips for a Seamless Adventure.",
-                footerText: "Created by Zhanel and Zhaniya | Contact: info@touristguide.com",
+                footerText: "Created by Shyngyskhan | Contact: info@touristguide.com",
             },
             ru: {
                 navbarBrand: 'Лучший туристический гид',
@@ -37,7 +37,7 @@
                 destinationsTitle: "Лучшие направления для посещения.",
                 destinationsDescription: "Исследуйте одни из самых красивых и популярных мест в мире, от захватывающих дух гор до нетронутых пляжей, от бурлящих городов до спокойной деревни.",
                 tipsTitle: "Советы по путешествиям для беспроблемного приключения.",
-                footerText: "Создано Жанель и Жанией | Контакт: info@touristguide.com",
+                footerText: "Создано Шынгысханом | Контакт: info@touristguide.com",
             },
             kk: {
                 navbarBrand: 'Үздік туристік гид',
@@ -49,7 +49,7 @@
                 destinationsTitle: "Баруға арналған үздік бағыттар.",
                 destinationsDescription: "Сіздердің саяхатыңызды ұмытылмас ету үшін туристік көрнекті жерлерді, қонақүйлерді және саяхат туралы кеңестерді зерттеңіз.",
                 tipsTitle: "Саяхат үшін оңайлықпен жұмсалған кеңестер.",
-                footerText: "Zhanel және Zhaniya жасаған | Байланыс: info@touristguide.com",
+                footerText: "Шыңғысхан жасаған | Байланыс: info@touristguide.com",
             }
         };
         

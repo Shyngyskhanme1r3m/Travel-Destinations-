@@ -28,7 +28,7 @@ function changeLanguage(language) {
             hotelMap: "Hotel Map",
             hotelMore: "More",
             loadMore: "Load More",
-            footerText: 'Created by Zhanel and Zhaniya | Contact:',
+            footerText: 'Created by Shyngyskhan | Contact:',
             datetimeLabel: 'Date and Time:'
         },
         ru: {
@@ -44,7 +44,7 @@ function changeLanguage(language) {
             hotelMap: "Карта отелей",
             hotelMore: "Подробнее",
             loadMore: "Загрузить еще",
-            footerText: 'Создано Жанель и Жанией | Контакт:',
+            footerText: 'Создано  Шынгысханом | Контакт:',
             datetimeLabel: 'Дата и Время:'
         },
         kk: {
@@ -60,7 +60,7 @@ function changeLanguage(language) {
             hotelMap: "Қонақ үй картасы",
             hotelMore: "Толығырақ",
             loadMore: "Көбірек жүктеу",
-            footerText: 'Жанель және Жания жасаған | Байланыс:',
+            footerText: 'Шыңғысхан жасаған | Байланыс:',
             datetimeLabel: 'Күні мен Уақыты:'
         }
     };
@@ -281,7 +281,7 @@ document.addEventListener("DOMContentLoaded", function () {
 document.getElementById('weatherForm').addEventListener('submit', async function(event) {    
     event.preventDefault();
     const city = document.getElementById('city').value;
-    const apiKey = 'df4d8b0dc682ffdd62d09b1f9c1e8bca'; // Замените на ваш реальный API-ключ    
+    const apiKey = '3deba90b0fc196917e56e914181fa500'; // Замените на ваш реальный API-ключ    
     const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${encodeURIComponent(city)}&appid=${apiKey}&units=metric`;
     try {
         const response = await fetch(apiUrl);        

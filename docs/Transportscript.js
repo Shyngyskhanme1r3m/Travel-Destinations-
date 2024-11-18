@@ -217,7 +217,7 @@ function changeLanguage(language) {
             carRentals: "Car Rentals",
             carRentalsDesc: "Rent a car for flexibility and convenience during your trip. Compare rental agencies and choose the best option.",
             transportMap: "Transport Map",
-            footerText: "Created by Zhanel and Zhaniya | Contact: info@touristguide.com",
+            footerText: "Created by Shyngyskhan | Contact: info@touristguide.com",
         },
         ru: {
             navbarBrand: 'Лучший туристический гид',
@@ -230,7 +230,7 @@ function changeLanguage(language) {
             carRentals: "Аренда автомобилей",
             carRentalsDesc: "Арендуйте автомобиль для гибкости и удобства во время поездки. Сравните агентства по аренде и выберите лучший вариант.",
             transportMap: "Карта транспорта",
-            footerText: "Создано Жанель и Жанией | Контакт: info@touristguide.com",
+            footerText: "Создано Шынгысханом | Контакт: info@touristguide.com",
         },
         kk: {
             navbarBrand: 'Үздік туристік гид',
@@ -243,7 +243,7 @@ function changeLanguage(language) {
             carRentals: "Автокөлік жалға алу",
             carRentalsDesc: "Сапарыңызда икемділік пен қолайлылық үшін автокөлік жалға алыңыз. Жалға беру агенттіктерін салыстырып, ең жақсы нұсқаны таңдаңыз.",
             transportMap: "Көлік картасы",
-            footerText: "Жанель және Жания жасаған | Байланыс: info@touristguide.com",
+            footerText: "Шыңғысхан жасаған | Байланыс: info@touristguide.com",
         }
     };
 
@@ -315,7 +315,7 @@ document.addEventListener("DOMContentLoaded", function () {
 document.getElementById('weatherForm').addEventListener('submit', async function(event) {    
     event.preventDefault();
     const city = document.getElementById('city').value;
-    const apiKey = 'df4d8b0dc682ffdd62d09b1f9c1e8bca'; // Замените на ваш реальный API-ключ    
+    const apiKey = '3deba90b0fc196917e56e914181fa500'; // Замените на ваш реальный API-ключ    
     const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${encodeURIComponent(city)}&appid=${apiKey}&units=metric`;
     try {
         const response = await fetch(apiUrl);        
