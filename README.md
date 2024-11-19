@@ -26,7 +26,7 @@ A live demo can be provided or linked here once available.
 Clone the Repository:
 bash
 Copy code
-git clone https://github.com/Zhanel77/Travel-Destinations.git
+https://github.com/Shyngyskhanme1r3m/Travel-Destinations-.git
 cd Travel-Destinations
 Open in Browser:
 Open index.html to view the project locally.
