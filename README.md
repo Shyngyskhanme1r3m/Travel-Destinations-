@@ -38,14 +38,16 @@ Toggle between light and dark themes and change languages as needed.
 Local Storage Setup: User preferences (e.g., theme, language, and authentication) are saved using localStorage for convenience.
 Custom Settings: Modify any additional configurations for themes and translations directly in the JavaScript files.
 ## Technologies Used
-HTML/CSS/JavaScript: Core languages for building and styling the web application.
-Bootstrap: For responsive and modern UI components.
-Local Storage: Used for saving user preferences and authentication data.
+- **HTML/CSS/JavaScript**: Core languages for building and styling the web interface.
+- **Map Integration**: Map APIs such as Google Maps or Leaflet (assumed, confirm with actual usage).
+- **API Integrations**: If applicable, for fetching real-time location or weather data.
 ## Contributing
-Fork the repository.
-Create a new branch for your feature or bug fix.
-Submit a pull request with detailed comments about your changes.
-## License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Submit a pull request with detailed comments about your changes.
 
-Feel free to customize this description based on your specific project details!
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+```
+
+Feel free to adjust sections like **API Keys** and **Technologies Used** based on actual implementation details. Let me know if there’s anything specific you’d like to add!
