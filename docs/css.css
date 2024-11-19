@@ -406,39 +406,50 @@ a {
 }
 
 /* Dark Theme */
-body.dark {
-    background-color: #082352;
+body.dark-mode {
+    background-color: #124b91; /* Основной фон темной темы */
     color: #f0f0f0;
 }
-
-body.dark .navbar,
-body.dark .footer {
-    background-color: hsl(220, 79%, 21%);
+body.dark-mode .navbar,
+body.dark-mode .footer {
+    background-color: #124b91; /* Темно-синий фон для навигации и подвала */
     color: #ffffff;
     border-bottom: 1px solid #444;
 }
 
-body.dark .card,
-body.dark .offcanvas,
-body.dark .btn,
-body.dark .form-control {
-    background-color: #012d5a;
+body.dark-mode .card,
+body.dark-mode .offcanvas,
+body.dark-mode .btn,
+body.dark-mode .form-control {
+    background-color: #1565c0; /* Более светлый оттенок темно-синего */
     color: #f5f5f5;
     border-color: #666;
 }
 
-body.dark .carousel-caption {
-    background: rgba(2, 13, 83, 0.7);
+body.dark-mode .carousel-caption {
+    background: rgba(18, 75, 145, 0.7); /* Полупрозрачный темно-синий */
     color: #f5f5f5;
 }
 
-body.dark a {
-    color: #add8e6;
+body.dark-mode a {
+    color: #add8e6; /* Светло-голубой цвет для ссылок */
 }
 
-body.dark .btn-primary {
-    background-color: #1f3b73;
+body.dark-mode .btn-primary {
+    background-color: #1f3b73; /* Темно-синий цвет для кнопок */
     border-color: #ffffff;
+}
+/* Navbar for Dark Mode */
+body.dark-mode .navbar {
+    background-color: #124b91; /* Темно-синий фон для навигации */
+    color: #ffffff;
+}
+body.dark-mode .navbar a.navbar-brand,
+body.dark-mode .navbar a.nav-link,
+body.dark-mode .navbar-menu,
+body.dark-mode #theme-toggle-switch,
+body.dark-mode #language-selector {
+    color: #ffffff; /* Цвет текста для навигации */
 }
 
 /* Basic Reset */
