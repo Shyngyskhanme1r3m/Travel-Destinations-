@@ -407,13 +407,13 @@ a {
 
 /* Dark Theme */
 body.dark {
-    background-color: #0a1f44;
+    background-color: #082352;
     color: #f0f0f0;
 }
 
 body.dark .navbar,
 body.dark .footer {
-    background-color: #0b275f;
+    background-color: hsl(220, 79%, 21%);
     color: #ffffff;
     border-bottom: 1px solid #444;
 }
@@ -662,7 +662,7 @@ body.light-mode .navbar {
 }
 
 body.dark-mode .navbar {
-    --navbar-bg: #000000;
+    --navbar-bg: #220869;
     --navbar-text: #ffffff;
 }
 
@@ -678,7 +678,7 @@ body.light-mode footer {
 }
 
 body.dark-mode footer {
-    --footer-bg: #333333;
+    --footer-bg: #190355;
     --footer-text: #ffffff;
 }
 
@@ -700,7 +700,7 @@ body.dark-mode .card,
 body.dark-mode .popup-content,
 body.dark-mode .left-image-container,
 body.dark-mode .carousel-caption {
-    --card-bg: #444444;
+    --card-bg: #01013a;
     --card-text: #ffffff;
 }
 
@@ -744,7 +744,7 @@ body.light-mode .col-md-6 {
 body.dark-mode .container, 
 body.dark-mode .row, 
 body.dark-mode .col-md-6 {
-    background-color: #1a1a1a; /* Dark background */
+    background-color: #16013e; /* Dark background */
     color: #ffffff; /* Dark text color */
 }
 /* General text color for both themes */
@@ -786,7 +786,7 @@ body.light-mode .white-section {
 }
 
 body.dark-mode .white-section{
-    background-color: #333333; /* Dark gray for dark mode */
+    background-color: #1c0446; /* Dark gray for dark mode */
     color: #ffffff;
     margin-top: 0;
     padding-top: 0;
@@ -813,7 +813,7 @@ body.light-mode #theme-toggle-switch .slider {
 
 /* Dark Mode Navbar */
 body.dark-mode .navbar {
-    background-color: #0b0e10; /* Dark blue background for dark mode */
+    background-color: #0a0249; /* Dark blue background for dark mode */
     color: #ffffff; /* Light text color for readability */
 }
 
@@ -826,7 +826,7 @@ body.dark-mode #language-selector {
 }
 
 body.dark-mode #theme-toggle-switch .slider {
-    background-color: #0b0b0b; /* Dark slider background */
+    background-color: #110254; /* Dark slider background */
 }
 
 /* Button Styling in Navbar for Contrast */
@@ -880,9 +880,9 @@ body.dark-mode .white-section {
   }
   
   .dark-mode {
-    --navbar-bg: #1a1a1a;
+    --navbar-bg: #010653;
     --navbar-text: #ffffff;
-    --offcanvas-bg: #333333;
+    --offcanvas-bg: #070259;
     --offcanvas-text: #ffffff;
     --nav-link-color: #bb86fc;
     --nav-link-hover-color: #3700b3;
@@ -933,7 +933,7 @@ body.dark-mode .white-section {
   }
   
   body.dark-mode .navbar {
-    --navbar-bg: #000000;
+    --navbar-bg: #070146;
     --navbar-text: #ffffff;
   }
   
@@ -943,7 +943,7 @@ body.dark-mode .white-section {
   }
   
   body.dark-mode .offcanvas {
-    --offcanvas-bg: #1a1a1a;
+    --offcanvas-bg: #07015c;
     --offcanvas-text: #ffffff;
   }
   
